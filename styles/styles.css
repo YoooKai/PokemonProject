@@ -1,0 +1,13 @@
+.input {
+    visibility: hidden;
+}
+.btn-menu{
+    visibility: hidden;
+}
+
+.lista-pokemon {
+    visibility: hidden;
+}
+.cargando-datos{
+    visibility: hidden;
+}
